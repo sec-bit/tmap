@@ -7,3 +7,5 @@ A total map implementation
 ## Coq version
 
 Require Coq >= 8.6
+
+## References
